@@ -1,0 +1,706 @@
+[
+  {
+    "input": {
+      "temp": 28.5,
+      "pressure": 1013.2,
+      "altitude": 152,
+      "humidity": 65
+    },
+    "output": {
+      "forecast": "Partiellement nuageux avec possibilité d'averses l'après-midi"
+    }
+  },
+  {
+    "input": {
+      "temp": 32.1,
+      "pressure": 1010.8,
+      "altitude": 86,
+      "humidity": 78
+    },
+    "output": {
+      "forecast": "Chaud et humide avec orages probables"
+    }
+  },
+  {
+    "input": {
+      "temp": 15.3,
+      "pressure": 1018.6,
+      "altitude": 423,
+      "humidity": 45
+    },
+    "output": {
+      "forecast": "Ciel dégagé avec températures fraîches"
+    }
+  },
+  {
+    "input": {
+      "temp": 5.2,
+      "pressure": 1023.5,
+      "altitude": 876,
+      "humidity": 32
+    },
+    "output": {
+      "forecast": "Froid et clair avec gel probable pendant la nuit"
+    }
+  },
+  {
+    "input": {
+      "temp": 22.7,
+      "pressure": 1015.4,
+      "altitude": 210,
+      "humidity": 58
+    },
+    "output": {
+      "forecast": "Agréable avec nuages épars"
+    }
+  },
+  {
+    "input": {
+      "temp": 12.6,
+      "pressure": 1020.3,
+      "altitude": 545,
+      "humidity": 51
+    },
+    "output": {
+      "forecast": "Frais et venteux avec couverture nuageuse croissante"
+    }
+  },
+  {
+    "input": {
+      "temp": 30.9,
+      "pressure": 1009.5,
+      "altitude": 105,
+      "humidity": 82
+    },
+    "output": {
+      "forecast": "Chaud et lourd avec forte probabilité de précipitations"
+    }
+  },
+  {
+    "input": {
+      "temp": -2.4,
+      "pressure": 1027.8,
+      "altitude": 1250,
+      "humidity": 28
+    },
+    "output": {
+      "forecast": "Froid avec possibilité de légères rafales de neige"
+    }
+  },
+  {
+    "input": {
+      "temp": 18.9,
+      "pressure": 1016.7,
+      "altitude": 320,
+      "humidity": 62
+    },
+    "output": {
+      "forecast": "Doux avec nébulosité variable"
+    }
+  },
+  {
+    "input": {
+      "temp": 26.3,
+      "pressure": 1014.1,
+      "altitude": 176,
+      "humidity": 71
+    },
+    "output": {
+      "forecast": "Chaud avec humidité croissante et averses possibles en soirée"
+    }
+  },
+  {
+    "input": {
+      "temp": 8.1,
+      "pressure": 1022.2,
+      "altitude": 684,
+      "humidity": 38
+    },
+    "output": {
+      "forecast": "Frais mais ensoleillé"
+    }
+  },
+  {
+    "input": {
+      "temp": 33.6,
+      "pressure": 1008.3,
+      "altitude": 64,
+      "humidity": 85
+    },
+    "output": {
+      "forecast": "Très chaud et humide avec alerte d'orage violent"
+    }
+  },
+  {
+    "input": {
+      "temp": 20.5,
+      "pressure": 1017.9,
+      "altitude": 245,
+      "humidity": 55
+    },
+    "output": {
+      "forecast": "Confortable avec vents légers et conditions clémentes"
+    }
+  },
+  {
+    "input": {
+      "temp": 3.7,
+      "pressure": 1025.1,
+      "altitude": 920,
+      "humidity": 30
+    },
+    "output": {
+      "forecast": "Froid avec ciel dégagé et températures glaciales la nuit"
+    }
+  },
+  {
+    "input": {
+      "temp": 24.8,
+      "pressure": 1012.6,
+      "altitude": 195,
+      "humidity": 68
+    },
+    "output": {
+      "forecast": "Chaud avec nuages épars et brèves averses"
+    }
+  },
+  {
+    "input": {
+      "temp": 10.3,
+      "pressure": 1021.7,
+      "altitude": 620,
+      "humidity": 42
+    },
+    "output": {
+      "forecast": "Frais et sec avec bonne visibilité"
+    }
+  },
+  {
+    "input": {
+      "temp": 31.7,
+      "pressure": 1011.2,
+      "altitude": 92,
+      "humidity": 80
+    },
+    "output": {
+      "forecast": "Chaud avec forte humidité et orages l'après-midi"
+    }
+  },
+  {
+    "input": {
+      "temp": -5.1,
+      "pressure": 1029.4,
+      "altitude": 1450,
+      "humidity": 25
+    },
+    "output": {
+      "forecast": "Très froid avec chutes de neige modérées prévues"
+    }
+  },
+  {
+    "input": {
+      "temp": 16.9,
+      "pressure": 1019.3,
+      "altitude": 385,
+      "humidity": 48
+    },
+    "output": {
+      "forecast": "Doux et sec avec nuages occasionnels"
+    }
+  },
+  {
+    "input": {
+      "temp": 27.5,
+      "pressure": 1013.7,
+      "altitude": 165,
+      "humidity": 73
+    },
+    "output": {
+      "forecast": "Chaud et humide avec averses de pluie périodiques"
+    }
+  },
+  {
+    "input": {
+      "temp": 6.8,
+      "pressure": 1024.6,
+      "altitude": 790,
+      "humidity": 35
+    },
+    "output": {
+      "forecast": "Frais avec haute pression et conditions dégagées"
+    }
+  },
+  {
+    "input": {
+      "temp": 29.8,
+      "pressure": 1012.1,
+      "altitude": 130,
+      "humidity": 76
+    },
+    "output": {
+      "forecast": "Chaud avec couverture nuageuse croissante et orages en soirée"
+    }
+  },
+  {
+    "input": {
+      "temp": 14.2,
+      "pressure": 1020.8,
+      "altitude": 470,
+      "humidity": 52
+    },
+    "output": {
+      "forecast": "Matinée fraîche laissant place à des conditions agréables l'après-midi"
+    }
+  },
+  {
+    "input": {
+      "temp": 1.5,
+      "pressure": 1026.3,
+      "altitude": 1050,
+      "humidity": 29
+    },
+    "output": {
+      "forecast": "Proche du gel avec neige légère occasionnelle"
+    }
+  },
+  {
+    "input": {
+      "temp": 23.1,
+      "pressure": 1016.2,
+      "altitude": 225,
+      "humidity": 65
+    },
+    "output": {
+      "forecast": "Chaud avec passages nuageux et brèves averses"
+    }
+  },
+  {
+    "input": {
+      "temp": 9.4,
+      "pressure": 1022.9,
+      "altitude": 655,
+      "humidity": 40
+    },
+    "output": {
+      "forecast": "Frais et dégagé avec vents légers"
+    }
+  },
+  {
+    "input": {
+      "temp": 34.2,
+      "pressure": 1007.8,
+      "altitude": 58,
+      "humidity": 88
+    },
+    "output": {
+      "forecast": "Extrêmement chaud et humide avec risque élevé d'orages violents"
+    }
+  },
+  {
+    "input": {
+      "temp": 19.6,
+      "pressure": 1018.5,
+      "altitude": 275,
+      "humidity": 60
+    },
+    "output": {
+      "forecast": "Températures confortables avec ciel partiellement nuageux"
+    }
+  },
+  {
+    "input": {
+      "temp": 4.9,
+      "pressure": 1025.9,
+      "altitude": 850,
+      "humidity": 33
+    },
+    "output": {
+      "forecast": "Froid avec conditions claires et alerte de gel"
+    }
+  },
+  {
+    "input": {
+      "temp": 25.6,
+      "pressure": 1015.1,
+      "altitude": 185,
+      "humidity": 70
+    },
+    "output": {
+      "forecast": "Chaud et modérément humide avec averses éparses"
+    }
+  },
+  {
+    "input": {
+      "temp": 13.4,
+      "pressure": 1020.1,
+      "altitude": 510,
+      "humidity": 50
+    },
+    "output": {
+      "forecast": "Fraîcheur printanière avec périodes ensoleillées"
+    }
+  },
+  {
+    "input": {
+      "temp": 7.5,
+      "pressure": 1023.4,
+      "altitude": 730,
+      "humidity": 36
+    },
+    "output": {
+      "forecast": "Froid mais stable avec ciel majoritairement dégagé"
+    }
+  },
+  {
+    "input": {
+      "temp": 29.3,
+      "pressure": 1011.8,
+      "altitude": 125,
+      "humidity": 77
+    },
+    "output": {
+      "forecast": "Chaud avec probabilité élevée d'orages en fin de journée"
+    }
+  },
+  {
+    "input": {
+      "temp": 17.8,
+      "pressure": 1018.9,
+      "altitude": 340,
+      "humidity": 56
+    },
+    "output": {
+      "forecast": "Doux et agréable avec quelques nuages épars"
+    }
+  },
+  {
+    "input": {
+      "temp": 2.9,
+      "pressure": 1026.7,
+      "altitude": 980,
+      "humidity": 31
+    },
+    "output": {
+      "forecast": "Temps froid et sec avec risque de gel nocturne"
+    }
+  },
+  {
+    "input": {
+      "temp": 32.5,
+      "pressure": 1009.1,
+      "altitude": 75,
+      "humidity": 84
+    },
+    "output": {
+      "forecast": "Chaleur caniculaire avec orages violents attendus"
+    }
+  },
+  {
+    "input": {
+      "temp": 21.2,
+      "pressure": 1017.1,
+      "altitude": 260,
+      "humidity": 63
+    },
+    "output": {
+      "forecast": "Agréablement chaud avec légère brise et nébulosité variable"
+    }
+  },
+  {
+    "input": {
+      "temp": -3.6,
+      "pressure": 1028.3,
+      "altitude": 1320,
+      "humidity": 27
+    },
+    "output": {
+      "forecast": "Conditions hivernales avec chutes de neige légères"
+    }
+  },
+  {
+    "input": {
+      "temp": 26.9,
+      "pressure": 1013.3,
+      "altitude": 172,
+      "humidity": 72
+    },
+    "output": {
+      "forecast": "Chaud et humide avec averses intermittentes"
+    }
+  },
+  {
+    "input": {
+      "temp": 11.7,
+      "pressure": 1021.5,
+      "altitude": 580,
+      "humidity": 46
+    },
+    "output": {
+      "forecast": "Fraîcheur automnale avec ciel principalement dégagé"
+    }
+  },
+  {
+    "input": {
+      "temp": 31.3,
+      "pressure": 1010.3,
+      "altitude": 98,
+      "humidity": 81
+    },
+    "output": {
+      "forecast": "Très chaud avec humidité élevée et risque d'orages"
+    }
+  },
+  {
+    "input": {
+      "temp": 0.8,
+      "pressure": 1027.1,
+      "altitude": 1120,
+      "humidity": 28
+    },
+    "output": {
+      "forecast": "Proche du gel avec quelques flocons de neige possibles"
+    }
+  },
+  {
+    "input": {
+      "temp": 22.3,
+      "pressure": 1016.8,
+      "altitude": 215,
+      "humidity": 64
+    },
+    "output": {
+      "forecast": "Agréablement chaud avec nuages passagers"
+    }
+  },
+  {
+    "input": {
+      "temp": 8.8,
+      "pressure": 1023.0,
+      "altitude": 695,
+      "humidity": 39
+    },
+    "output": {
+      "forecast": "Frais avec conditions anticycloniques stables"
+    }
+  },
+  {
+    "input": {
+      "temp": 33.9,
+      "pressure": 1008.7,
+      "altitude": 69,
+      "humidity": 86
+    },
+    "output": {
+      "forecast": "Extrêmement chaud et lourd avec orages violents imminents"
+    }
+  },
+  {
+    "input": {
+      "temp": 18.4,
+      "pressure": 1018.2,
+      "altitude": 330,
+      "humidity": 59
+    },
+    "output": {
+      "forecast": "Doux et agréable avec légère brise"
+    }
+  },
+  {
+    "input": {
+      "temp": -4.3,
+      "pressure": 1028.9,
+      "altitude": 1380,
+      "humidity": 26
+    },
+    "output": {
+      "forecast": "Très froid avec chutes de neige modérées"
+    }
+  },
+  {
+    "input": {
+      "temp": 27.9,
+      "pressure": 1012.9,
+      "altitude": 160,
+      "humidity": 74
+    },
+    "output": {
+      "forecast": "Chaud et humide avec averses orageuses probables"
+    }
+  },
+  {
+    "input": {
+      "temp": 10.1,
+      "pressure": 1022.1,
+      "altitude": 605,
+      "humidity": 44
+    },
+    "output": {
+      "forecast": "Frais avec ciel clair et excellent ensoleillement"
+    }
+  },
+  {
+    "input": {
+      "temp": 21.5,
+      "pressure": 1016.8,
+      "altitude": 230,
+      "humidity": 62
+    },
+    "output": {
+      "forecast": "Agréable avec légère brise et éclaircies"
+    }
+  },
+  {
+    "input": {
+      "temp": 16.8,
+      "pressure": 1019.3,
+      "altitude": 350,
+      "humidity": 55
+    },
+    "output": {
+      "forecast": "Doux et confortable avec ciel partiellement nuageux"
+    }
+  },
+  {
+    "input": {
+      "temp": 19.2,
+      "pressure": 1017.5,
+      "altitude": 280,
+      "humidity": 58
+    },
+    "output": {
+      "forecast": "Belle journée avec quelques nuages épars"
+    }
+  },
+  {
+    "input": {
+      "temp": 14.5,
+      "pressure": 1020.1,
+      "altitude": 420,
+      "humidity": 52
+    },
+    "output": {
+      "forecast": "Frais mais agréable avec bonnes conditions"
+    }
+  },
+  {
+    "input": {
+      "temp": 22.9,
+      "pressure": 1016.3,
+      "altitude": 210,
+      "humidity": 63
+    },
+    "output": {
+      "forecast": "Chaud mais confortable avec légère brise"
+    }
+  },
+  {
+    "input": {
+      "temp": 18.3,
+      "pressure": 1018.4,
+      "altitude": 305,
+      "humidity": 57
+    },
+    "output": {
+      "forecast": "Température idéale avec ciel majoritairement dégagé"
+    }
+  },
+  {
+    "input": {
+      "temp": 15.7,
+      "pressure": 1019.8,
+      "altitude": 390,
+      "humidity": 54
+    },
+    "output": {
+      "forecast": "Conditions printanières avec belle visibilité"
+    }
+  },
+  {
+    "input": {
+      "temp": 20.8,
+      "pressure": 1017.0,
+      "altitude": 260,
+      "humidity": 60
+    },
+    "output": {
+      "forecast": "Agréablement chaud avec journée ensoleillée"
+    }
+  },
+  {
+    "input": {
+      "temp": 17.5,
+      "pressure": 1018.7,
+      "altitude": 335,
+      "humidity": 56
+    },
+    "output": {
+      "forecast": "Doux et sec avec quelques nuages passagers"
+    }
+  },
+  {
+    "input": {
+      "temp": 23.5,
+      "pressure": 1015.9,
+      "altitude": 200,
+      "humidity": 64
+    },
+    "output": {
+      "forecast": "Chaud mais supportable avec conditions stables"
+    }
+  },
+  {
+    "input": {
+      "temp": 19.8,
+      "pressure": 1017.2,
+      "altitude": 270,
+      "humidity": 59
+    },
+    "output": {
+      "forecast": "Beau temps avec légères brises occasionnelles"
+    }
+  },
+  {
+    "input": {
+      "temp": 16.2,
+      "pressure": 1019.5,
+      "altitude": 375,
+      "humidity": 53
+    },
+    "output": {
+      "forecast": "Frais et confortable avec excellente visibilité"
+    }
+  },
+  {
+    "input": {
+      "temp": 21.0,
+      "pressure": 1016.6,
+      "altitude": 240,
+      "humidity": 61
+    },
+    "output": {
+      "forecast": "Température agréable avec ciel majoritairement clair"
+    }
+  },
+  {
+    "input": {
+      "temp": 18.0,
+      "pressure": 1018.5,
+      "altitude": 320,
+      "humidity": 57
+    },
+    "output": {
+      "forecast": "Conditions idéales avec alternance de soleil et quelques nuages"
+    }
+  },
+  {
+    "input": {
+      "temp": 15.0,
+      "pressure": 1020.0,
+      "altitude": 405,
+      "humidity": 53
+    },
+    "output": {
+      "forecast": "Fraîcheur agréable avec excellent ensoleillement"
+    }
+  }
+]
